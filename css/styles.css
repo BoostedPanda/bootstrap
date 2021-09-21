@@ -1,0 +1,74 @@
+.callout {
+    background-color: black;
+    color: white;
+}
+
+header .icons {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.icons li {
+    display: inline;
+    margin-left: 4px;
+}
+
+input[type="search"] {
+    width: 100%;
+}
+
+.site-header {
+    border-bottom: 2px solid black;
+    padding-bottom: 5px;
+}
+
+.hero {
+    margin-top: 15px;
+}
+
+.hero h1 {
+    font-size: 1.1em;
+}
+
+.spots {
+    margin-top: 15px;
+}
+
+.spots h1 {
+    font-size: 1.1em
+}
+
+.accordion ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.icons-footer {
+    list-style-type: none;
+    padding: 0;
+    margin: 25px 0;
+}
+
+.icons-footer li {
+    display: inline;
+    margin-right: 4px;
+}
+.nav-footer {
+    margin: 20px 0;
+}
+.nav-footer ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.main-menu li{
+    display: inline;
+}
+.main-menu {
+    display: inline;
+}
+form {
+    display: inline-block;
+}
